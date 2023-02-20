@@ -31,16 +31,6 @@
       ]
     },
     {
-      "id": 7,
-      "quote": "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
-      "author": "Michael Jordan",
-      "createdAt": "2022-02-19",
-      "genres": [
-        "Inspiration",
-        "Inspiration"
-      ]
-    },
-    {
       "id": 8,
       "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
       "author": "Amelia Earhart",
@@ -235,6 +225,24 @@
         "Positive"
       ],
       "id": 31
+    },
+    {
+      "createdAt": "2023-02-20T04:23:01.115Z",
+      "quote": "Random Quote",
+      "author": "Someone",
+      "genres": [
+        "Motivation"
+      ],
+      "id": 32
+    },
+    {
+      "createdAt": "2023-02-20T04:24:41.349Z",
+      "quote": "Random Quote",
+      "author": "Someone",
+      "genres": [
+        "Motivation"
+      ],
+      "id": 33
     }
   ]
 }
